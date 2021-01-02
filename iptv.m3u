@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="" group-title="Joyn",RTL
+https://s11.hopslan.com/rtl/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL_II" tvg-shift="" radio="" tvg-logo="" group-title="Joyn",RTL my
+http://rezepte.rf.gd/tvip/test.txt
+
+#EXTINF:-1 group-title="Joyn",Radio Italia
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="" group-title="Joyn",RTL Nitro
+https://s2.hopslan.com/nitro/tracks-v1a1/mono.m3u8
