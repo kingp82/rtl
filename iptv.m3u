@@ -1,1 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/SGK-Portal/LiveTV/1/logo/sat1.png" group-title="Joyn",Das Erste HD
 https://s11.hopslan.com/rtl/tracks-v1a1/mono.m3u8
