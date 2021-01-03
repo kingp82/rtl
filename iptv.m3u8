@@ -1,7 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:6
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:64985
-#EXT-X-PROGRAM-DATE-TIME:2021-01-03T14:05:38Z
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/SGK-Portal/LiveTV/1/logo/sat1.png" group-title="Joyn",Das Erste HD
 https://s11.hopslan.com/rtl/tracks-v1a1/mono.m3u8
