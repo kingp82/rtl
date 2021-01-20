@@ -81,4 +81,55 @@ plugin://plugin.video.joyn/?movie_id=&block_id=&tv_show_id=&stream_type=LIVE&sea
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.radioitalia.it/android-icon-192x192.png" group-title="Joyn",Welt der Wunder
 https://video-weaver.fra05.hls.live-video.net/v1/playlist/CpQFXheJVl34KYxE8WqPILAEQnWx3btk_d-PMyORucFsMW7lEjOjT7EKcFVDkyCgEGV33zTl0en_kODJg4-doAGIBiGbqCS6liKLJLVWNhj8_HcLchzpPNFdRnbR83G7_vhCulXa3VTILFyTl8IUBGX-xFbjPpOqj8FWq2-8vaEJCmYPSYKYtp2nRg8pLIbn8fICI5NR7GYVcOBW3U5JQF9MvEKDMojr-uHL8CBcRuhZ2Z7xLl5oR2JGJ1uo-5rry6ENAYTAtN_7zfr0eGfA9EQc4Z-kOZ6TyrJCJx07cSaxz0j0LWx34UWLq4KDPhnoHG3Yu34bW9oGaWmFNVzgjRFWYdBLjk6Vu6urFcaJRrq-UiQy2vtpTrA8dMMff4Xmfw6fMlyyu8f5NbO5SIoaFOHMOR-rLg-xUHyqC1XP2j7Vm2M3SqVbQDUA-QugQgZApKDjxi1F5uSJQuZHBottGOKuzIDtQUGHQBoAGAOEFAipe8uqBuEvq5bycQ4PWcTaAXIEZnMshKU6Oz90yDYt1UiZMczO0QibDveNeUrc9-q7yAEd0H6aMM7IuJf5XOZBYIhN5rppg4LmV_c8HrEkDmafXGv337jkl68F6YhOpri_gJ22iebxDQzEw_Tr4vQsRPdxr3tc_CCXxYTyltLzWOw2m4iHSmr2GW656MmKU44Wq8jFxWd5PL6DBC81pGTHASpX_8ASKA6KJWIFTNc-HHdhF4Zcxmcq3O89m2vaXyPydlOTevQadstSNFdITOVlUsMqmLZODk1_h06FxTZwNvP0pnpVJx0z7jGOY0b8jA_-AkE_XEycUFiBRwObMb3id012cQ0PW_znwJLXEUVqQN9iBgblKxw0koC0uR4s4tQ-cBIBaopZEhCJs0tZjbdZK9cHDgDp25hzGgzoA-yxDzcB8EbQ-4I.m3u8
+#EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3 IT" tvg-logo="https://i.imgur.com/MnTvWYO.png" group-title="ITALY",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/JGo7SJP.png" group-title="ITALY",Rete 4
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/7RRCRh3.png" group-title="ITALY",Canale 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DMAX IT" tvg-logo="https://i.imgur.com/vqTeu3A.png" group-title="ITALY",DMAX TI
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY", Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Iris" tvg-logo="https://i.imgur.com/rxn7gBM.png" group-title="ITALY",Iris
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/7eWrVUH.jpg",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Time" tvg-logo="https://i.imgur.com/FvTKb8v.png" group-title="ITALY",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno" tvg-logo="https://i.imgur.com/aUX3yd9.png" group-title="ITALY",Sardegna Uno
+https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Videolina Sardegna" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="ITALY",Videolina Sardegna
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TGCom 24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCom 24
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crimine
+https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
 
